@@ -1,0 +1,9 @@
+/home/satya/productivity/p_tracker/build/Desktop-Debug/CMakeFiles/p_tracker.dir
+/home/satya/productivity/p_tracker/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/satya/productivity/p_tracker/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/satya/productivity/p_tracker/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/satya/productivity/p_tracker/build/Desktop-Debug/CMakeFiles/install.dir
+/home/satya/productivity/p_tracker/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/satya/productivity/p_tracker/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/satya/productivity/p_tracker/build/Desktop-Debug/CMakeFiles/p_tracker_autogen_timestamp_deps.dir
+/home/satya/productivity/p_tracker/build/Desktop-Debug/CMakeFiles/p_tracker_autogen.dir

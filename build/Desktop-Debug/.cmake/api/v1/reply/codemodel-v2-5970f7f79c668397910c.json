@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4b9fc01c68ce9cd46378.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "p_tracker",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "p_tracker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p_tracker-Debug-2643c0ce605b2e421f3e.json",
+					"name" : "p_tracker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "p_tracker_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p_tracker_autogen-Debug-8ab044bfd4fdd8eaf2d6.json",
+					"name" : "p_tracker_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "p_tracker_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p_tracker_autogen_timestamp_deps-Debug-2c974caf947a26e38391.json",
+					"name" : "p_tracker_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/satya/productivity/p_tracker/build/Desktop-Debug",
+		"source" : "/home/satya/productivity/p_tracker"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
